@@ -1,0 +1,17 @@
+# Archivos compilados y temporales de Ren'Py
+*.rpyc
+*.rpymc
+*.rpyb
+*.rpa
+*.bak
+*~
+
+# Caché y datos de sesión del proyecto
+game/cache/
+game/saves/
+log.txt
+traceback.txt
+errors.txt
+
+# Carpetas generadas al compilar distribuciones
+*-dists/
